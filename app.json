@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "react-native-course",
-    "slug": "react-native-course",
+    "name": "react-get-motion",
+    "slug": "react-get-motion",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -27,6 +27,7 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "Reto de get in motion con React native"
   }
 }
